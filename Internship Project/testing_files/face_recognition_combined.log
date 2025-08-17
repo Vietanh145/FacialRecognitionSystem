@@ -1,0 +1,1005 @@
+2025-06-07 12:42:07,525 - INFO - Loading face database...
+2025-06-07 12:42:07,529 - ERROR - Image quality check failed for demo_images\aligned_faces\person1: Could not read image
+2025-06-07 12:42:07,532 - ERROR - Image quality check failed for demo_images\aligned_faces\person2: Could not read image
+2025-06-07 12:42:07,701 - INFO - Image quality check passed for demo_images\Duy\Duy01.jpg: Size=1920x2560, Blur=107.51
+2025-06-07 12:42:08,332 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:08,412 - INFO - Loaded embedding for demo_images\Duy\Duy01.jpg
+2025-06-07 12:42:08,483 - ERROR - Image quality check failed for demo_images\Duy\Duy02.jpg: Image too blurry (Laplacian variance: 43.49)
+2025-06-07 12:42:08,492 - INFO - Image quality check passed for demo_images\Duy\Duy03.jpg: Size=400x600, Blur=257.78
+2025-06-07 12:42:08,547 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:08,606 - INFO - Loaded embedding for demo_images\Duy\Duy03.jpg
+2025-06-07 12:42:08,705 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh01.jpg: Image too blurry (Laplacian variance: 6.49)
+2025-06-07 12:42:08,807 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh02.jpg: Image too blurry (Laplacian variance: 7.10)
+2025-06-07 12:42:08,906 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh03.jpg: Image too blurry (Laplacian variance: 27.09)
+2025-06-07 12:42:09,001 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh04.jpg: Image too blurry (Laplacian variance: 18.53)
+2025-06-07 12:42:09,102 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh05.jpg: Image too blurry (Laplacian variance: 15.89)
+2025-06-07 12:42:09,168 - INFO - Image quality check passed for demo_images\Phat\Phat01.jpg: Size=1080x1920, Blur=156.35
+2025-06-07 12:42:09,427 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:09,479 - INFO - Loaded embedding for demo_images\Phat\Phat01.jpg
+2025-06-07 12:42:09,536 - INFO - Image quality check passed for demo_images\Phat\Phat02.jpg: Size=1080x1920, Blur=125.73
+2025-06-07 12:42:09,773 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:09,824 - INFO - Loaded embedding for demo_images\Phat\Phat02.jpg
+2025-06-07 12:42:09,881 - INFO - Image quality check passed for demo_images\Phat\Phat03.jpg: Size=1080x1920, Blur=184.89
+2025-06-07 12:42:10,092 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:10,143 - INFO - Loaded embedding for demo_images\Phat\Phat03.jpg
+2025-06-07 12:42:10,200 - INFO - Image quality check passed for demo_images\Phat\Phat04.jpg: Size=1080x1920, Blur=167.38
+2025-06-07 12:42:10,415 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:10,469 - INFO - Loaded embedding for demo_images\Phat\Phat04.jpg
+2025-06-07 12:42:10,527 - INFO - Image quality check passed for demo_images\Phat\Phat05.jpg: Size=1080x1920, Blur=133.04
+2025-06-07 12:42:10,820 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:10,872 - INFO - Loaded embedding for demo_images\Phat\Phat05.jpg
+2025-06-07 12:42:10,875 - ERROR - Image quality check failed for demo_images\raw_faces\person1: Could not read image
+2025-06-07 12:42:10,878 - ERROR - Image quality check failed for demo_images\raw_faces\person2: Could not read image
+2025-06-07 12:42:11,020 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh2.jpg: Size=1920x2560, Blur=338.25
+2025-06-07 12:42:11,389 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:11,440 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh2.jpg
+2025-06-07 12:42:11,591 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh3.jpg: Size=1920x2560, Blur=101.76
+2025-06-07 12:42:11,957 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:12,009 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh3.jpg
+2025-06-07 12:42:12,157 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh4.jpg: Size=1920x2560, Blur=81.88
+2025-06-07 12:42:12,507 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:12,559 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh4.jpg
+2025-06-07 12:42:12,695 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh5.jpg: Size=1920x2560, Blur=111.81
+2025-06-07 12:42:13,065 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:13,116 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh5.jpg
+2025-06-07 12:42:13,263 - ERROR - Image quality check failed for demo_images\Viet_Anh\vietanh6.jpg: Image too blurry (Laplacian variance: 37.05)
+2025-06-07 12:42:13,411 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh7.jpg: Size=2560x1920, Blur=193.03
+2025-06-07 12:42:13,794 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:13,849 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh7.jpg
+2025-06-07 12:42:13,987 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh8.jpg: Size=1920x2560, Blur=152.71
+2025-06-07 12:42:14,337 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:14,383 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh8.jpg
+2025-06-07 12:42:14,508 - INFO - Image quality check passed for demo_images\Vux\vux01.jpg: Size=1920x2560, Blur=132.00
+2025-06-07 12:42:14,834 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:14,887 - INFO - Loaded embedding for demo_images\Vux\vux01.jpg
+2025-06-07 12:42:15,015 - INFO - Image quality check passed for demo_images\Vux\vux02.jpg: Size=1920x2560, Blur=121.73
+2025-06-07 12:42:15,352 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:15,412 - INFO - Loaded embedding for demo_images\Vux\vux02.jpg
+2025-06-07 12:42:15,547 - INFO - Image quality check passed for demo_images\Vux\vux03.jpg: Size=1920x2560, Blur=120.07
+2025-06-07 12:42:15,902 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:15,951 - INFO - Loaded embedding for demo_images\Vux\vux03.jpg
+2025-06-07 12:42:16,077 - INFO - Image quality check passed for demo_images\Vux\vux04.jpg: Size=1920x2560, Blur=124.44
+2025-06-07 12:42:16,460 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:16,515 - INFO - Loaded embedding for demo_images\Vux\vux04.jpg
+2025-06-07 12:42:16,647 - INFO - Image quality check passed for demo_images\Vux\vux05.jpg: Size=1920x2560, Blur=151.97
+2025-06-07 12:42:17,015 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:17,065 - INFO - Loaded embedding for demo_images\Vux\vux05.jpg
+2025-06-07 12:42:17,135 - INFO - Image quality check passed for demo_images\Vu_nguyen\Vu_Nguyen01.png: Size=1080x1920, Blur=52.72
+2025-06-07 12:42:17,332 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:17,380 - INFO - Loaded embedding for demo_images\Vu_nguyen\Vu_Nguyen01.png
+2025-06-07 12:42:17,453 - ERROR - Image quality check failed for demo_images\Vu_nguyen\Vu_Nguyen02.png: Image too blurry (Laplacian variance: 26.92)
+2025-06-07 12:42:17,527 - ERROR - Image quality check failed for demo_images\Vu_nguyen\Vu_Nguyen03.png: Image too blurry (Laplacian variance: 39.48)
+2025-06-07 12:42:17,611 - INFO - Image quality check passed for demo_images\Xoai\Xoai01.jpg: Size=1536x2048, Blur=50.03
+2025-06-07 12:42:17,889 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:17,938 - INFO - Loaded embedding for demo_images\Xoai\Xoai01.jpg
+2025-06-07 12:42:18,019 - INFO - Image quality check passed for demo_images\Xoai\Xoai02.jpg: Size=1536x2048, Blur=55.71
+2025-06-07 12:42:18,291 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:18,341 - INFO - Loaded embedding for demo_images\Xoai\Xoai02.jpg
+2025-06-07 12:42:18,423 - ERROR - Image quality check failed for demo_images\Xoai\Xoai03.jpg: Image too blurry (Laplacian variance: 33.85)
+2025-06-07 12:42:18,511 - ERROR - Image quality check failed for demo_images\Xoai\Xoai04.jpg: Image too blurry (Laplacian variance: 24.14)
+2025-06-07 12:42:18,600 - ERROR - Image quality check failed for demo_images\Xoai\Xoai05.jpg: Image too blurry (Laplacian variance: 48.43)
+2025-06-07 12:42:27,682 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:27,994 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:28,193 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:28,397 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:28,596 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:28,809 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:29,049 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:29,238 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:29,423 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:29,615 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:29,812 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:30,029 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:30,233 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:30,428 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:30,633 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:30,826 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:31,008 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:31,196 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:31,402 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:31,608 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:31,797 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:31,985 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:32,195 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:32,395 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:32,584 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:32,776 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:32,975 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:33,174 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:33,367 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:33,546 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:33,744 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:33,969 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:34,177 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:34,394 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:34,604 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:34,809 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:35,016 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:35,204 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:35,393 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:35,586 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:35,785 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:35,970 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:36,184 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:36,391 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:36,583 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:36,774 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:36,978 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:37,175 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:37,372 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:37,567 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:37,773 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:37,968 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:38,162 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:38,365 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:38,545 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:38,741 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:38,942 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:39,137 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:39,339 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:39,544 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:39,747 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:39,954 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:40,159 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:40,370 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:40,581 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:40,785 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:41,016 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:41,242 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:41,456 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:41,650 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:41,844 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:42,058 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:42,282 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:42,479 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:42,678 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:42,906 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:43,108 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:43,313 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:43,504 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:43,715 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:43,912 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:44,134 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:44,335 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:44,519 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:44,734 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:44,935 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:45,121 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:45,310 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:45,517 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:45,705 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:45,909 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:46,129 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:46,320 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:46,525 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:46,740 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:46,934 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:47,139 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:47,339 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:47,536 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:47,735 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:47,927 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:48,129 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:48,310 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:48,501 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:48,689 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:48,877 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:49,067 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:49,278 - INFO - Face detection confidence: 1.00
+2025-06-07 12:42:49,335 - INFO - Saved captured image to captured_data\captured_20250607_124249.jpg
+2025-06-07 12:42:49,335 - INFO - Saved vector to captured_data\vector_20250607_124249.log
+2025-06-07 12:53:24,882 - INFO - Loading face database...
+2025-06-07 12:53:24,885 - ERROR - Image quality check failed for demo_images\aligned_faces\person1: Could not read image
+2025-06-07 12:53:24,888 - ERROR - Image quality check failed for demo_images\aligned_faces\person2: Could not read image
+2025-06-07 12:53:25,051 - INFO - Image quality check passed for demo_images\Duy\Duy01.jpg: Size=1920x2560, Blur=107.51
+2025-06-07 12:53:25,509 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:25,574 - INFO - Loaded embedding for demo_images\Duy\Duy01.jpg: [-0.0189175   0.03310415 -0.01726938 -0.0271486  -0.00713679  0.01517178
+ -0.01657911 -0.0483937   0.0218141   0.03026159]...
+2025-06-07 12:53:25,633 - ERROR - Image quality check failed for demo_images\Duy\Duy02.jpg: Image too blurry (Laplacian variance: 43.49)
+2025-06-07 12:53:25,640 - INFO - Image quality check passed for demo_images\Duy\Duy03.jpg: Size=400x600, Blur=257.78
+2025-06-07 12:53:25,692 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:25,747 - INFO - Loaded embedding for demo_images\Duy\Duy03.jpg: [ 0.03585884  0.02994106  0.00845998 -0.01366783  0.00366908  0.01778973
+ -0.02428652 -0.01013951  0.01215616  0.05447826]...
+2025-06-07 12:53:25,838 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh01.jpg: Image too blurry (Laplacian variance: 6.49)
+2025-06-07 12:53:25,935 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh02.jpg: Image too blurry (Laplacian variance: 7.10)
+2025-06-07 12:53:26,035 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh03.jpg: Image too blurry (Laplacian variance: 27.09)
+2025-06-07 12:53:26,138 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh04.jpg: Image too blurry (Laplacian variance: 18.53)
+2025-06-07 12:53:26,237 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh05.jpg: Image too blurry (Laplacian variance: 15.89)
+2025-06-07 12:53:26,249 - INFO - Image quality check passed for demo_images\Hoang_lan\Hoang_Lan.JPG: Size=400x600, Blur=197.27
+2025-06-07 12:53:26,291 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:26,350 - INFO - Loaded embedding for demo_images\Hoang_lan\Hoang_Lan.JPG: [ 0.07975235  0.03622527 -0.03352765  0.06436115 -0.00198015  0.01656492
+ -0.05501828  0.06706781 -0.04791358  0.05386792]...
+2025-06-07 12:53:26,359 - INFO - Image quality check passed for demo_images\Phat\Hoang_Phat.JPG: Size=400x600, Blur=299.38
+2025-06-07 12:53:26,402 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:26,457 - INFO - Loaded embedding for demo_images\Phat\Hoang_Phat.JPG: [ 0.07784344  0.01230057  0.00250669  0.03528239 -0.00596989  0.01226586
+ -0.0332997  -0.03962372 -0.07181743  0.01239291]...
+2025-06-07 12:53:26,512 - INFO - Image quality check passed for demo_images\Phat\Phat01.jpg: Size=1080x1920, Blur=156.35
+2025-06-07 12:53:26,757 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:26,807 - INFO - Loaded embedding for demo_images\Phat\Phat01.jpg: [ 0.07667113 -0.03086489 -0.01132458  0.01866583  0.03955686  0.00330219
+  0.00555461 -0.0178902  -0.06384932  0.03459859]...
+2025-06-07 12:53:26,860 - INFO - Image quality check passed for demo_images\Phat\Phat02.jpg: Size=1080x1920, Blur=125.73
+2025-06-07 12:53:27,083 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:27,132 - INFO - Loaded embedding for demo_images\Phat\Phat02.jpg: [ 0.07437981  0.00216536  0.0011306   0.0090647   0.02582327  0.02491808
+ -0.04401016 -0.03281208 -0.05136319  0.00805512]...
+2025-06-07 12:53:27,189 - INFO - Image quality check passed for demo_images\Phat\Phat03.jpg: Size=1080x1920, Blur=184.89
+2025-06-07 12:53:27,392 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:27,442 - INFO - Loaded embedding for demo_images\Phat\Phat03.jpg: [ 0.07214855 -0.0282128   0.00700137  0.03753761  0.03884205  0.00224872
+ -0.00483291 -0.02814415 -0.05310006  0.00375044]...
+2025-06-07 12:53:27,494 - INFO - Image quality check passed for demo_images\Phat\Phat04.jpg: Size=1080x1920, Blur=167.38
+2025-06-07 12:53:27,708 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:27,757 - INFO - Loaded embedding for demo_images\Phat\Phat04.jpg: [ 0.09240383 -0.02969008  0.01541067  0.02798234  0.05461701  0.01038425
+ -0.00554027 -0.03905492 -0.02568864  0.03176768]...
+2025-06-07 12:53:27,814 - INFO - Image quality check passed for demo_images\Phat\Phat05.jpg: Size=1080x1920, Blur=133.04
+2025-06-07 12:53:28,105 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:28,155 - INFO - Loaded embedding for demo_images\Phat\Phat05.jpg: [ 0.09322438 -0.01751482  0.00260884  0.03432954  0.02151621 -0.00710419
+ -0.00954699 -0.02069789 -0.02765976  0.03414549]...
+2025-06-07 12:53:28,159 - ERROR - Image quality check failed for demo_images\raw_faces\person1: Could not read image
+2025-06-07 12:53:28,161 - ERROR - Image quality check failed for demo_images\raw_faces\person2: Could not read image
+2025-06-07 12:53:28,314 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh2.jpg: Size=1920x2560, Blur=338.25
+2025-06-07 12:53:28,682 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:28,733 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh2.jpg: [ 0.03425334  0.0119384  -0.05912105  0.0249787  -0.02891254 -0.00877407
+ -0.03726443  0.05085598  0.06038357 -0.01299113]...
+2025-06-07 12:53:28,882 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh3.jpg: Size=1920x2560, Blur=101.76
+2025-06-07 12:53:29,246 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:29,300 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh3.jpg: [ 0.0139346   0.00181636 -0.07678155  0.04060788 -0.03434437 -0.01174624
+ -0.01729002  0.04655385  0.04983379 -0.01102668]...
+2025-06-07 12:53:29,447 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh4.jpg: Size=1920x2560, Blur=81.88
+2025-06-07 12:53:29,782 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:29,832 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh4.jpg: [ 0.01553511  0.00639831 -0.06455114  0.05118767 -0.05143065 -0.02831123
+ -0.03800825  0.05119536  0.05592072 -0.00817537]...
+2025-06-07 12:53:29,969 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh5.jpg: Size=1920x2560, Blur=111.81
+2025-06-07 12:53:30,309 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:30,362 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh5.jpg: [ 0.02219188  0.02187675 -0.06814347  0.03483035 -0.04883706 -0.0116588
+ -0.02333453  0.04818476  0.05012956 -0.01518464]...
+2025-06-07 12:53:30,502 - ERROR - Image quality check failed for demo_images\Viet_Anh\vietanh6.jpg: Image too blurry (Laplacian variance: 37.05)
+2025-06-07 12:53:30,652 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh7.jpg: Size=2560x1920, Blur=193.03
+2025-06-07 12:53:31,018 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:31,071 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh7.jpg: [ 0.03520721  0.00959168 -0.05609953  0.03849172 -0.05181705  0.01295427
+ -0.0463356   0.07126214  0.06289311 -0.02444713]...
+2025-06-07 12:53:31,218 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh8.jpg: Size=1920x2560, Blur=152.71
+2025-06-07 12:53:31,575 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:31,625 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh8.jpg: [ 0.03786415  0.01680385 -0.03826666  0.0304493  -0.03696479  0.00663053
+ -0.03508943  0.06253249  0.06238088 -0.03088333]...
+2025-06-07 12:53:31,756 - INFO - Image quality check passed for demo_images\Vux\vux01.jpg: Size=1920x2560, Blur=132.00
+2025-06-07 12:53:32,110 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:32,164 - INFO - Loaded embedding for demo_images\Vux\vux01.jpg: [ 0.06101889  0.07422214  0.05198506  0.07058892  0.0682646  -0.00637195
+ -0.0048835   0.01065446 -0.05625146 -0.01520196]...
+2025-06-07 12:53:32,292 - INFO - Image quality check passed for demo_images\Vux\vux02.jpg: Size=1920x2560, Blur=121.73
+2025-06-07 12:53:32,623 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:32,678 - INFO - Loaded embedding for demo_images\Vux\vux02.jpg: [ 0.03543738  0.0615572   0.03951921  0.05251786  0.08302227 -0.0279906
+  0.0096544  -0.00914358 -0.06019216 -0.01988945]...
+2025-06-07 12:53:32,804 - INFO - Image quality check passed for demo_images\Vux\vux03.jpg: Size=1920x2560, Blur=120.07
+2025-06-07 12:53:33,131 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:33,184 - INFO - Loaded embedding for demo_images\Vux\vux03.jpg: [ 0.05963138  0.06265895  0.06893172  0.06763438  0.06171776 -0.02291212
+  0.01214332  0.00733566 -0.05509033 -0.03097262]...
+2025-06-07 12:53:33,314 - INFO - Image quality check passed for demo_images\Vux\vux04.jpg: Size=1920x2560, Blur=124.44
+2025-06-07 12:53:33,634 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:33,687 - INFO - Loaded embedding for demo_images\Vux\vux04.jpg: [ 0.0589995   0.05827621  0.03536143  0.04694339  0.08369909 -0.01608479
+  0.05840419 -0.01153936 -0.06896596 -0.01254488]...
+2025-06-07 12:53:33,815 - INFO - Image quality check passed for demo_images\Vux\vux05.jpg: Size=1920x2560, Blur=151.97
+2025-06-07 12:53:34,164 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:34,218 - INFO - Loaded embedding for demo_images\Vux\vux05.jpg: [ 0.04446651  0.07276978  0.06632058  0.08621991  0.06432343 -0.02862442
+  0.01080877  0.00609004 -0.03929512 -0.03305747]...
+2025-06-07 12:53:34,285 - INFO - Image quality check passed for demo_images\Vu_nguyen\Vu_Nguyen01.png: Size=1080x1920, Blur=52.72
+2025-06-07 12:53:34,471 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:34,521 - INFO - Loaded embedding for demo_images\Vu_nguyen\Vu_Nguyen01.png: [ 0.05388382 -0.00734365  0.02531504  0.05433152 -0.04098976  0.00847497
+ -0.05969182 -0.01060675 -0.05605339 -0.03758083]...
+2025-06-07 12:53:34,590 - ERROR - Image quality check failed for demo_images\Vu_nguyen\Vu_Nguyen02.png: Image too blurry (Laplacian variance: 26.92)
+2025-06-07 12:53:34,662 - ERROR - Image quality check failed for demo_images\Vu_nguyen\Vu_Nguyen03.png: Image too blurry (Laplacian variance: 39.48)
+2025-06-07 12:53:34,750 - INFO - Image quality check passed for demo_images\Xoai\Xoai01.jpg: Size=1536x2048, Blur=50.03
+2025-06-07 12:53:35,024 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:35,075 - INFO - Loaded embedding for demo_images\Xoai\Xoai01.jpg: [ 0.0311893  -0.00737756 -0.01716274  0.05349931  0.03752421  0.01447397
+  0.01087103 -0.00619203  0.01517205  0.04407654]...
+2025-06-07 12:53:35,157 - INFO - Image quality check passed for demo_images\Xoai\Xoai02.jpg: Size=1536x2048, Blur=55.71
+2025-06-07 12:53:35,418 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:35,466 - INFO - Loaded embedding for demo_images\Xoai\Xoai02.jpg: [ 0.03128411  0.07325123 -0.01270228  0.06224552  0.00544293  0.02650371
+ -0.05574726 -0.01425699 -0.02916242  0.05471648]...
+2025-06-07 12:53:35,552 - ERROR - Image quality check failed for demo_images\Xoai\Xoai03.jpg: Image too blurry (Laplacian variance: 33.85)
+2025-06-07 12:53:35,634 - ERROR - Image quality check failed for demo_images\Xoai\Xoai04.jpg: Image too blurry (Laplacian variance: 24.14)
+2025-06-07 12:53:35,715 - ERROR - Image quality check failed for demo_images\Xoai\Xoai05.jpg: Image too blurry (Laplacian variance: 48.43)
+2025-06-07 12:53:41,042 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:41,293 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:41,531 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:41,765 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:42,018 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:42,245 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:42,448 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:42,668 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:42,879 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:43,097 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:43,297 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:43,505 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:43,713 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:43,915 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:44,114 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:44,318 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:44,514 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:44,726 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:44,941 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:45,130 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:45,334 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:45,536 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:45,746 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:45,974 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:46,194 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:46,401 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:46,591 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:46,797 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:47,005 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:47,201 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:47,394 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:47,591 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:47,804 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:48,033 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:48,239 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:48,452 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:48,677 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:48,880 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:49,088 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:49,300 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:49,509 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:49,705 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:49,891 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:50,092 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:50,295 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:50,492 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:50,696 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:50,902 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:51,084 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:51,303 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:51,511 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:51,727 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:51,914 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:52,122 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:52,326 - INFO - Face detection confidence: 1.00
+2025-06-07 12:53:52,375 - INFO - Saved captured image to captured_data\captured_20250607_125352.jpg
+2025-06-07 12:53:52,376 - INFO - Saved vector to captured_data\vector_20250607_125352.log
+2025-06-07 12:57:40,698 - INFO - Loading face database...
+2025-06-07 12:57:40,702 - ERROR - Image quality check failed for demo_images\aligned_faces\person1: Could not read image
+2025-06-07 12:57:40,705 - ERROR - Image quality check failed for demo_images\aligned_faces\person2: Could not read image
+2025-06-07 12:57:40,843 - INFO - Image quality check passed for demo_images\Duy\Duy01.jpg: Size=1920x2560, Blur=107.51
+2025-06-07 12:57:41,303 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:41,361 - INFO - Loaded embedding for demo_images\Duy\Duy01.jpg: [-0.0189175   0.03310415 -0.01726938 -0.0271486  -0.00713679  0.01517178
+ -0.01657911 -0.0483937   0.0218141   0.03026159]...
+2025-06-07 12:57:41,421 - ERROR - Image quality check failed for demo_images\Duy\Duy02.jpg: Image too blurry (Laplacian variance: 43.49)
+2025-06-07 12:57:41,428 - INFO - Image quality check passed for demo_images\Duy\Duy03.jpg: Size=400x600, Blur=257.78
+2025-06-07 12:57:41,482 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:41,539 - INFO - Loaded embedding for demo_images\Duy\Duy03.jpg: [ 0.03585884  0.02994106  0.00845998 -0.01366783  0.00366908  0.01778973
+ -0.02428652 -0.01013951  0.01215616  0.05447826]...
+2025-06-07 12:57:41,625 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh01.jpg: Image too blurry (Laplacian variance: 6.49)
+2025-06-07 12:57:41,713 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh02.jpg: Image too blurry (Laplacian variance: 7.10)
+2025-06-07 12:57:41,796 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh03.jpg: Image too blurry (Laplacian variance: 27.09)
+2025-06-07 12:57:41,875 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh04.jpg: Image too blurry (Laplacian variance: 18.53)
+2025-06-07 12:57:41,960 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh05.jpg: Image too blurry (Laplacian variance: 15.89)
+2025-06-07 12:57:41,969 - INFO - Image quality check passed for demo_images\Hoang_lan\Hoang_Lan.JPG: Size=400x600, Blur=197.27
+2025-06-07 12:57:42,010 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:42,069 - INFO - Loaded embedding for demo_images\Hoang_lan\Hoang_Lan.JPG: [ 0.07975235  0.03622527 -0.03352765  0.06436115 -0.00198015  0.01656492
+ -0.05501828  0.06706781 -0.04791358  0.05386792]...
+2025-06-07 12:57:42,077 - INFO - Image quality check passed for demo_images\Phat\Hoang_Phat.JPG: Size=400x600, Blur=299.38
+2025-06-07 12:57:42,121 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:42,172 - INFO - Loaded embedding for demo_images\Phat\Hoang_Phat.JPG: [ 0.07784344  0.01230057  0.00250669  0.03528239 -0.00596989  0.01226586
+ -0.0332997  -0.03962372 -0.07181743  0.01239291]...
+2025-06-07 12:57:42,228 - INFO - Image quality check passed for demo_images\Phat\Phat01.jpg: Size=1080x1920, Blur=156.35
+2025-06-07 12:57:42,478 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:42,533 - INFO - Loaded embedding for demo_images\Phat\Phat01.jpg: [ 0.07667113 -0.03086489 -0.01132458  0.01866583  0.03955686  0.00330219
+  0.00555461 -0.0178902  -0.06384932  0.03459859]...
+2025-06-07 12:57:42,587 - INFO - Image quality check passed for demo_images\Phat\Phat02.jpg: Size=1080x1920, Blur=125.73
+2025-06-07 12:57:42,821 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:42,878 - INFO - Loaded embedding for demo_images\Phat\Phat02.jpg: [ 0.07437981  0.00216536  0.0011306   0.0090647   0.02582327  0.02491808
+ -0.04401016 -0.03281208 -0.05136319  0.00805512]...
+2025-06-07 12:57:42,932 - INFO - Image quality check passed for demo_images\Phat\Phat03.jpg: Size=1080x1920, Blur=184.89
+2025-06-07 12:57:43,151 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:43,203 - INFO - Loaded embedding for demo_images\Phat\Phat03.jpg: [ 0.07214855 -0.0282128   0.00700137  0.03753761  0.03884205  0.00224872
+ -0.00483291 -0.02814415 -0.05310006  0.00375044]...
+2025-06-07 12:57:43,264 - INFO - Image quality check passed for demo_images\Phat\Phat04.jpg: Size=1080x1920, Blur=167.38
+2025-06-07 12:57:43,478 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:43,528 - INFO - Loaded embedding for demo_images\Phat\Phat04.jpg: [ 0.09240383 -0.02969008  0.01541067  0.02798234  0.05461701  0.01038425
+ -0.00554027 -0.03905492 -0.02568864  0.03176768]...
+2025-06-07 12:57:43,585 - INFO - Image quality check passed for demo_images\Phat\Phat05.jpg: Size=1080x1920, Blur=133.04
+2025-06-07 12:57:43,885 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:43,944 - INFO - Loaded embedding for demo_images\Phat\Phat05.jpg: [ 0.09322438 -0.01751482  0.00260884  0.03432954  0.02151621 -0.00710419
+ -0.00954699 -0.02069789 -0.02765976  0.03414549]...
+2025-06-07 12:57:43,947 - ERROR - Image quality check failed for demo_images\raw_faces\person1: Could not read image
+2025-06-07 12:57:43,950 - ERROR - Image quality check failed for demo_images\raw_faces\person2: Could not read image
+2025-06-07 12:57:44,080 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh2.jpg: Size=1920x2560, Blur=338.25
+2025-06-07 12:57:44,455 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:44,507 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh2.jpg: [ 0.03425334  0.0119384  -0.05912105  0.0249787  -0.02891254 -0.00877407
+ -0.03726443  0.05085598  0.06038357 -0.01299113]...
+2025-06-07 12:57:44,639 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh3.jpg: Size=1920x2560, Blur=101.76
+2025-06-07 12:57:45,000 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:45,053 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh3.jpg: [ 0.0139346   0.00181636 -0.07678155  0.04060788 -0.03434437 -0.01174624
+ -0.01729002  0.04655385  0.04983379 -0.01102668]...
+2025-06-07 12:57:45,181 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh4.jpg: Size=1920x2560, Blur=81.88
+2025-06-07 12:57:45,525 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:45,578 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh4.jpg: [ 0.01553511  0.00639831 -0.06455114  0.05118767 -0.05143065 -0.02831123
+ -0.03800825  0.05119536  0.05592072 -0.00817537]...
+2025-06-07 12:57:45,697 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh5.jpg: Size=1920x2560, Blur=111.81
+2025-06-07 12:57:46,047 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:46,099 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh5.jpg: [ 0.02219188  0.02187675 -0.06814347  0.03483035 -0.04883706 -0.0116588
+ -0.02333453  0.04818476  0.05012956 -0.01518464]...
+2025-06-07 12:57:46,220 - ERROR - Image quality check failed for demo_images\Viet_Anh\vietanh6.jpg: Image too blurry (Laplacian variance: 37.05)
+2025-06-07 12:57:46,345 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh7.jpg: Size=2560x1920, Blur=193.03
+2025-06-07 12:57:46,708 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:46,759 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh7.jpg: [ 0.03520721  0.00959168 -0.05609953  0.03849172 -0.05181705  0.01295427
+ -0.0463356   0.07126214  0.06289311 -0.02444713]...
+2025-06-07 12:57:46,879 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh8.jpg: Size=1920x2560, Blur=152.71
+2025-06-07 12:57:47,234 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:47,285 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh8.jpg: [ 0.03786415  0.01680385 -0.03826666  0.0304493  -0.03696479  0.00663053
+ -0.03508943  0.06253249  0.06238088 -0.03088333]...
+2025-06-07 12:57:47,417 - INFO - Image quality check passed for demo_images\Vux\vux01.jpg: Size=1920x2560, Blur=132.00
+2025-06-07 12:57:47,741 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:47,793 - INFO - Loaded embedding for demo_images\Vux\vux01.jpg: [ 0.06101889  0.07422214  0.05198506  0.07058892  0.0682646  -0.00637195
+ -0.0048835   0.01065446 -0.05625146 -0.01520196]...
+2025-06-07 12:57:47,922 - INFO - Image quality check passed for demo_images\Vux\vux02.jpg: Size=1920x2560, Blur=121.73
+2025-06-07 12:57:48,260 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:48,311 - INFO - Loaded embedding for demo_images\Vux\vux02.jpg: [ 0.03543738  0.0615572   0.03951921  0.05251786  0.08302227 -0.0279906
+  0.0096544  -0.00914358 -0.06019216 -0.01988945]...
+2025-06-07 12:57:48,435 - INFO - Image quality check passed for demo_images\Vux\vux03.jpg: Size=1920x2560, Blur=120.07
+2025-06-07 12:57:48,775 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:48,830 - INFO - Loaded embedding for demo_images\Vux\vux03.jpg: [ 0.05963138  0.06265895  0.06893172  0.06763438  0.06171776 -0.02291212
+  0.01214332  0.00733566 -0.05509033 -0.03097262]...
+2025-06-07 12:57:48,954 - INFO - Image quality check passed for demo_images\Vux\vux04.jpg: Size=1920x2560, Blur=124.44
+2025-06-07 12:57:49,291 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:49,342 - INFO - Loaded embedding for demo_images\Vux\vux04.jpg: [ 0.0589995   0.05827621  0.03536143  0.04694339  0.08369909 -0.01608479
+  0.05840419 -0.01153936 -0.06896596 -0.01254488]...
+2025-06-07 12:57:49,471 - INFO - Image quality check passed for demo_images\Vux\vux05.jpg: Size=1920x2560, Blur=151.97
+2025-06-07 12:57:49,810 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:49,861 - INFO - Loaded embedding for demo_images\Vux\vux05.jpg: [ 0.04446651  0.07276978  0.06632058  0.08621991  0.06432343 -0.02862442
+  0.01080877  0.00609004 -0.03929512 -0.03305747]...
+2025-06-07 12:57:49,928 - INFO - Image quality check passed for demo_images\Vu_nguyen\Vu_Nguyen01.png: Size=1080x1920, Blur=52.72
+2025-06-07 12:57:50,121 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:50,171 - INFO - Loaded embedding for demo_images\Vu_nguyen\Vu_Nguyen01.png: [ 0.05388382 -0.00734365  0.02531504  0.05433152 -0.04098976  0.00847497
+ -0.05969182 -0.01060675 -0.05605339 -0.03758083]...
+2025-06-07 12:57:50,240 - ERROR - Image quality check failed for demo_images\Vu_nguyen\Vu_Nguyen02.png: Image too blurry (Laplacian variance: 26.92)
+2025-06-07 12:57:50,311 - ERROR - Image quality check failed for demo_images\Vu_nguyen\Vu_Nguyen03.png: Image too blurry (Laplacian variance: 39.48)
+2025-06-07 12:57:50,396 - INFO - Image quality check passed for demo_images\Xoai\Xoai01.jpg: Size=1536x2048, Blur=50.03
+2025-06-07 12:57:50,675 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:50,725 - INFO - Loaded embedding for demo_images\Xoai\Xoai01.jpg: [ 0.0311893  -0.00737756 -0.01716274  0.05349931  0.03752421  0.01447397
+  0.01087103 -0.00619203  0.01517205  0.04407654]...
+2025-06-07 12:57:50,804 - INFO - Image quality check passed for demo_images\Xoai\Xoai02.jpg: Size=1536x2048, Blur=55.71
+2025-06-07 12:57:51,067 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:51,115 - INFO - Loaded embedding for demo_images\Xoai\Xoai02.jpg: [ 0.03128411  0.07325123 -0.01270228  0.06224552  0.00544293  0.02650371
+ -0.05574726 -0.01425699 -0.02916242  0.05471648]...
+2025-06-07 12:57:51,193 - ERROR - Image quality check failed for demo_images\Xoai\Xoai03.jpg: Image too blurry (Laplacian variance: 33.85)
+2025-06-07 12:57:51,278 - ERROR - Image quality check failed for demo_images\Xoai\Xoai04.jpg: Image too blurry (Laplacian variance: 24.14)
+2025-06-07 12:57:51,360 - ERROR - Image quality check failed for demo_images\Xoai\Xoai05.jpg: Image too blurry (Laplacian variance: 48.43)
+2025-06-07 12:57:51,360 - INFO - Loaded 23 images and 7 persons
+2025-06-07 12:57:56,577 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:56,800 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:57,003 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:57,213 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:57,429 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:57,646 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:57,864 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:58,076 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:58,290 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:58,489 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:58,719 - INFO - Face detection confidence: 0.99
+2025-06-07 12:57:58,945 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:59,162 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:59,376 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:59,603 - INFO - Face detection confidence: 1.00
+2025-06-07 12:57:59,805 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:00,019 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:00,221 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:00,422 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:00,618 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:00,818 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:01,025 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:01,230 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:01,438 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:01,637 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:01,831 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:02,031 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:02,237 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:02,434 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:02,628 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:02,835 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:03,037 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:03,238 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:03,439 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:03,637 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:03,860 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:04,054 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:04,238 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:04,437 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:04,630 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:04,814 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:05,027 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:05,234 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:05,429 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:05,640 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:05,851 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:06,059 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:06,283 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:06,487 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:06,693 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:06,894 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:07,112 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:07,325 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:07,531 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:07,727 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:07,911 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:08,105 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:08,305 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:08,497 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:08,682 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:08,886 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:09,074 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:09,279 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:09,479 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:09,669 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:09,877 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:10,103 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:10,153 - INFO - Saved captured image to captured_data\captured_20250607_125810.jpg
+2025-06-07 12:58:10,154 - INFO - Saved vector to captured_data\vector_20250607_125810.log
+2025-06-07 12:58:10,154 - INFO - compare_vectors: 24 vectors, 24 paths, 24 names
+2025-06-07 12:58:44,244 - INFO - Comparing Duy with Captured: Cosine Distance = 0.4500, Confidence = 0.5500, Result = Different person
+2025-06-07 12:58:44,244 - INFO - Comparing Hoang_lan with Captured: Cosine Distance = 0.5063, Confidence = 0.4937, Result = Different person
+2025-06-07 12:58:44,244 - INFO - Comparing Phat with Captured: Cosine Distance = 0.6372, Confidence = 0.3628, Result = Different person
+2025-06-07 12:58:44,245 - INFO - Comparing Viet_Anh with Captured: Cosine Distance = 0.1146, Confidence = 0.8854, Result = Same person
+2025-06-07 12:58:44,245 - INFO - Comparing Vux with Captured: Cosine Distance = 0.8034, Confidence = 0.1966, Result = Different person
+2025-06-07 12:58:44,245 - INFO - Comparing Vu_nguyen with Captured: Cosine Distance = 0.6165, Confidence = 0.3835, Result = Different person
+2025-06-07 12:58:44,245 - INFO - Comparing Xoai with Captured: Cosine Distance = 0.3857, Confidence = 0.6143, Result = Different person
+2025-06-07 12:58:44,395 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:44,625 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:44,839 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:45,041 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:45,234 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:45,435 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:45,641 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:45,847 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:46,051 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:46,257 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:46,455 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:46,648 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:46,838 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:47,037 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:47,239 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:47,449 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:47,656 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:47,870 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:48,064 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:48,267 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:48,472 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:48,674 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:48,872 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:49,075 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:49,274 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:49,493 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:49,704 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:49,904 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:50,105 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:50,319 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:50,531 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:50,729 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:50,935 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:51,134 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:51,339 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:51,535 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:51,757 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:51,959 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:52,150 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:52,377 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:52,586 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:52,784 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:53,004 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:53,233 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:53,447 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:53,644 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:53,850 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:54,087 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:54,300 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:54,503 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:54,718 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:54,925 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:55,123 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:55,325 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:55,535 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:55,758 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:55,990 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:56,187 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:56,382 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:56,593 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:56,792 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:56,994 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:57,194 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:57,390 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:57,595 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:57,804 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:58,007 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:58,272 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:58,453 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:58,634 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:58,854 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:59,042 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:59,244 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:59,445 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:59,666 - INFO - Face detection confidence: 1.00
+2025-06-07 12:58:59,887 - INFO - Face detection confidence: 1.00
+2025-06-07 12:59:00,131 - INFO - Face detection confidence: 1.00
+2025-06-07 12:59:00,326 - INFO - Face detection confidence: 1.00
+2025-06-07 12:59:00,518 - INFO - Face detection confidence: 1.00
+2025-06-07 12:59:00,741 - INFO - Face detection confidence: 1.00
+2025-06-07 12:59:00,953 - INFO - Face detection confidence: 1.00
+2025-06-07 12:59:01,156 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:35,025 - INFO - Loading face database...
+2025-06-07 13:03:35,031 - ERROR - Image quality check failed for demo_images\aligned_faces\person1: Could not read image
+2025-06-07 13:03:35,034 - ERROR - Image quality check failed for demo_images\aligned_faces\person2: Could not read image
+2025-06-07 13:03:35,169 - INFO - Image quality check passed for demo_images\Duy\Duy01.jpg: Size=1920x2560, Blur=107.51
+2025-06-07 13:03:35,612 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:35,667 - INFO - Loaded embedding for demo_images\Duy\Duy01.jpg: [-0.0189175   0.03310415 -0.01726938 -0.0271486  -0.00713679  0.01517178
+ -0.01657911 -0.0483937   0.0218141   0.03026159]...
+2025-06-07 13:03:35,720 - ERROR - Image quality check failed for demo_images\Duy\Duy02.jpg: Image too blurry (Laplacian variance: 43.49)
+2025-06-07 13:03:35,727 - INFO - Image quality check passed for demo_images\Duy\Duy03.jpg: Size=400x600, Blur=257.78
+2025-06-07 13:03:35,774 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:35,823 - INFO - Loaded embedding for demo_images\Duy\Duy03.jpg: [ 0.03585884  0.02994106  0.00845998 -0.01366783  0.00366908  0.01778973
+ -0.02428652 -0.01013951  0.01215616  0.05447826]...
+2025-06-07 13:03:35,902 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh01.jpg: Image too blurry (Laplacian variance: 6.49)
+2025-06-07 13:03:35,989 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh02.jpg: Image too blurry (Laplacian variance: 7.10)
+2025-06-07 13:03:36,080 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh03.jpg: Image too blurry (Laplacian variance: 27.09)
+2025-06-07 13:03:36,168 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh04.jpg: Image too blurry (Laplacian variance: 18.53)
+2025-06-07 13:03:36,250 - ERROR - Image quality check failed for demo_images\Giap_Minh\Giap_Minh05.jpg: Image too blurry (Laplacian variance: 15.89)
+2025-06-07 13:03:36,258 - INFO - Image quality check passed for demo_images\Hoang_lan\Hoang_Lan.JPG: Size=400x600, Blur=197.27
+2025-06-07 13:03:36,301 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:36,352 - INFO - Loaded embedding for demo_images\Hoang_lan\Hoang_Lan.JPG: [ 0.07975235  0.03622527 -0.03352765  0.06436115 -0.00198015  0.01656492
+ -0.05501828  0.06706781 -0.04791358  0.05386792]...
+2025-06-07 13:03:36,360 - INFO - Image quality check passed for demo_images\Phat\Hoang_Phat.JPG: Size=400x600, Blur=299.38
+2025-06-07 13:03:36,400 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:36,450 - INFO - Loaded embedding for demo_images\Phat\Hoang_Phat.JPG: [ 0.07784344  0.01230057  0.00250669  0.03528239 -0.00596989  0.01226586
+ -0.0332997  -0.03962372 -0.07181743  0.01239291]...
+2025-06-07 13:03:36,506 - INFO - Image quality check passed for demo_images\Phat\Phat01.jpg: Size=1080x1920, Blur=156.35
+2025-06-07 13:03:36,762 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:36,814 - INFO - Loaded embedding for demo_images\Phat\Phat01.jpg: [ 0.07667113 -0.03086489 -0.01132458  0.01866583  0.03955686  0.00330219
+  0.00555461 -0.0178902  -0.06384932  0.03459859]...
+2025-06-07 13:03:36,865 - INFO - Image quality check passed for demo_images\Phat\Phat02.jpg: Size=1080x1920, Blur=125.73
+2025-06-07 13:03:37,106 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:37,159 - INFO - Loaded embedding for demo_images\Phat\Phat02.jpg: [ 0.07437981  0.00216536  0.0011306   0.0090647   0.02582327  0.02491808
+ -0.04401016 -0.03281208 -0.05136319  0.00805512]...
+2025-06-07 13:03:37,211 - INFO - Image quality check passed for demo_images\Phat\Phat03.jpg: Size=1080x1920, Blur=184.89
+2025-06-07 13:03:37,419 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:37,472 - INFO - Loaded embedding for demo_images\Phat\Phat03.jpg: [ 0.07214855 -0.0282128   0.00700137  0.03753761  0.03884205  0.00224872
+ -0.00483291 -0.02814415 -0.05310006  0.00375044]...
+2025-06-07 13:03:37,524 - INFO - Image quality check passed for demo_images\Phat\Phat04.jpg: Size=1080x1920, Blur=167.38
+2025-06-07 13:03:37,743 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:37,795 - INFO - Loaded embedding for demo_images\Phat\Phat04.jpg: [ 0.09240383 -0.02969008  0.01541067  0.02798234  0.05461701  0.01038425
+ -0.00554027 -0.03905492 -0.02568864  0.03176768]...
+2025-06-07 13:03:37,849 - INFO - Image quality check passed for demo_images\Phat\Phat05.jpg: Size=1080x1920, Blur=133.04
+2025-06-07 13:03:38,139 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:38,191 - INFO - Loaded embedding for demo_images\Phat\Phat05.jpg: [ 0.09322438 -0.01751482  0.00260884  0.03432954  0.02151621 -0.00710419
+ -0.00954699 -0.02069789 -0.02765976  0.03414549]...
+2025-06-07 13:03:38,194 - ERROR - Image quality check failed for demo_images\raw_faces\person1: Could not read image
+2025-06-07 13:03:38,197 - ERROR - Image quality check failed for demo_images\raw_faces\person2: Could not read image
+2025-06-07 13:03:38,325 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh2.jpg: Size=1920x2560, Blur=338.25
+2025-06-07 13:03:38,705 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:38,757 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh2.jpg: [ 0.03425334  0.0119384  -0.05912105  0.0249787  -0.02891254 -0.00877407
+ -0.03726443  0.05085598  0.06038357 -0.01299113]...
+2025-06-07 13:03:38,885 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh3.jpg: Size=1920x2560, Blur=101.76
+2025-06-07 13:03:39,250 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:39,308 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh3.jpg: [ 0.0139346   0.00181636 -0.07678155  0.04060788 -0.03434437 -0.01174624
+ -0.01729002  0.04655385  0.04983379 -0.01102668]...
+2025-06-07 13:03:39,434 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh4.jpg: Size=1920x2560, Blur=81.88
+2025-06-07 13:03:39,778 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:39,833 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh4.jpg: [ 0.01553511  0.00639831 -0.06455114  0.05118767 -0.05143065 -0.02831123
+ -0.03800825  0.05119536  0.05592072 -0.00817537]...
+2025-06-07 13:03:39,965 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh5.jpg: Size=1920x2560, Blur=111.81
+2025-06-07 13:03:40,317 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:40,367 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh5.jpg: [ 0.02219188  0.02187675 -0.06814347  0.03483035 -0.04883706 -0.0116588
+ -0.02333453  0.04818476  0.05012956 -0.01518464]...
+2025-06-07 13:03:40,492 - ERROR - Image quality check failed for demo_images\Viet_Anh\vietanh6.jpg: Image too blurry (Laplacian variance: 37.05)
+2025-06-07 13:03:40,616 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh7.jpg: Size=2560x1920, Blur=193.03
+2025-06-07 13:03:40,975 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:41,025 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh7.jpg: [ 0.03520721  0.00959168 -0.05609953  0.03849172 -0.05181705  0.01295427
+ -0.0463356   0.07126214  0.06289311 -0.02444713]...
+2025-06-07 13:03:41,150 - INFO - Image quality check passed for demo_images\Viet_Anh\vietanh8.jpg: Size=1920x2560, Blur=152.71
+2025-06-07 13:03:41,510 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:41,561 - INFO - Loaded embedding for demo_images\Viet_Anh\vietanh8.jpg: [ 0.03786415  0.01680385 -0.03826666  0.0304493  -0.03696479  0.00663053
+ -0.03508943  0.06253249  0.06238088 -0.03088333]...
+2025-06-07 13:03:41,682 - INFO - Image quality check passed for demo_images\Vux\vux01.jpg: Size=1920x2560, Blur=132.00
+2025-06-07 13:03:42,001 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:42,053 - INFO - Loaded embedding for demo_images\Vux\vux01.jpg: [ 0.06101889  0.07422214  0.05198506  0.07058892  0.0682646  -0.00637195
+ -0.0048835   0.01065446 -0.05625146 -0.01520196]...
+2025-06-07 13:03:42,175 - INFO - Image quality check passed for demo_images\Vux\vux02.jpg: Size=1920x2560, Blur=121.73
+2025-06-07 13:03:42,504 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:42,556 - INFO - Loaded embedding for demo_images\Vux\vux02.jpg: [ 0.03543738  0.0615572   0.03951921  0.05251786  0.08302227 -0.0279906
+  0.0096544  -0.00914358 -0.06019216 -0.01988945]...
+2025-06-07 13:03:42,678 - INFO - Image quality check passed for demo_images\Vux\vux03.jpg: Size=1920x2560, Blur=120.07
+2025-06-07 13:03:43,007 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:43,063 - INFO - Loaded embedding for demo_images\Vux\vux03.jpg: [ 0.05963138  0.06265895  0.06893172  0.06763438  0.06171776 -0.02291212
+  0.01214332  0.00733566 -0.05509033 -0.03097262]...
+2025-06-07 13:03:43,192 - INFO - Image quality check passed for demo_images\Vux\vux04.jpg: Size=1920x2560, Blur=124.44
+2025-06-07 13:03:43,524 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:43,574 - INFO - Loaded embedding for demo_images\Vux\vux04.jpg: [ 0.0589995   0.05827621  0.03536143  0.04694339  0.08369909 -0.01608479
+  0.05840419 -0.01153936 -0.06896596 -0.01254488]...
+2025-06-07 13:03:43,699 - INFO - Image quality check passed for demo_images\Vux\vux05.jpg: Size=1920x2560, Blur=151.97
+2025-06-07 13:03:44,043 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:44,092 - INFO - Loaded embedding for demo_images\Vux\vux05.jpg: [ 0.04446651  0.07276978  0.06632058  0.08621991  0.06432343 -0.02862442
+  0.01080877  0.00609004 -0.03929512 -0.03305747]...
+2025-06-07 13:03:44,159 - INFO - Image quality check passed for demo_images\Vu_nguyen\Vu_Nguyen01.png: Size=1080x1920, Blur=52.72
+2025-06-07 13:03:44,354 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:44,406 - INFO - Loaded embedding for demo_images\Vu_nguyen\Vu_Nguyen01.png: [ 0.05388382 -0.00734365  0.02531504  0.05433152 -0.04098976  0.00847497
+ -0.05969182 -0.01060675 -0.05605339 -0.03758083]...
+2025-06-07 13:03:44,471 - ERROR - Image quality check failed for demo_images\Vu_nguyen\Vu_Nguyen02.png: Image too blurry (Laplacian variance: 26.92)
+2025-06-07 13:03:44,539 - ERROR - Image quality check failed for demo_images\Vu_nguyen\Vu_Nguyen03.png: Image too blurry (Laplacian variance: 39.48)
+2025-06-07 13:03:44,619 - INFO - Image quality check passed for demo_images\Xoai\Xoai01.jpg: Size=1536x2048, Blur=50.03
+2025-06-07 13:03:44,890 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:44,941 - INFO - Loaded embedding for demo_images\Xoai\Xoai01.jpg: [ 0.0311893  -0.00737756 -0.01716274  0.05349931  0.03752421  0.01447397
+  0.01087103 -0.00619203  0.01517205  0.04407654]...
+2025-06-07 13:03:45,024 - INFO - Image quality check passed for demo_images\Xoai\Xoai02.jpg: Size=1536x2048, Blur=55.71
+2025-06-07 13:03:45,286 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:45,338 - INFO - Loaded embedding for demo_images\Xoai\Xoai02.jpg: [ 0.03128411  0.07325123 -0.01270228  0.06224552  0.00544293  0.02650371
+ -0.05574726 -0.01425699 -0.02916242  0.05471648]...
+2025-06-07 13:03:45,421 - ERROR - Image quality check failed for demo_images\Xoai\Xoai03.jpg: Image too blurry (Laplacian variance: 33.85)
+2025-06-07 13:03:45,506 - ERROR - Image quality check failed for demo_images\Xoai\Xoai04.jpg: Image too blurry (Laplacian variance: 24.14)
+2025-06-07 13:03:45,591 - ERROR - Image quality check failed for demo_images\Xoai\Xoai05.jpg: Image too blurry (Laplacian variance: 48.43)
+2025-06-07 13:03:45,591 - INFO - Loaded 23 images and 7 persons
+2025-06-07 13:03:50,698 - INFO - Face detection confidence: 0.99
+2025-06-07 13:03:50,910 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:51,127 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:51,333 - INFO - Face detection confidence: 0.99
+2025-06-07 13:03:51,529 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:51,733 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:51,950 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:52,152 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:52,385 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:52,589 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:52,791 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:53,207 - INFO - Face detection confidence: 0.99
+2025-06-07 13:03:53,405 - INFO - Face detection confidence: 0.97
+2025-06-07 13:03:53,601 - INFO - Face detection confidence: 0.97
+2025-06-07 13:03:53,804 - INFO - Face detection confidence: 0.97
+2025-06-07 13:03:54,008 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:54,213 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:54,416 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:54,616 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:54,828 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:55,036 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:55,245 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:55,858 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:56,064 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:56,254 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:56,450 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:56,654 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:56,885 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:57,088 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:59,723 - INFO - Face detection confidence: 1.00
+2025-06-07 13:03:59,907 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:00,099 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:00,309 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:00,548 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:00,771 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:00,971 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:01,163 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:01,590 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:01,782 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:01,972 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:02,193 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:02,371 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:02,554 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:02,744 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:02,941 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:03,138 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:03,346 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:03,545 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:03,757 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:03,967 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:04,196 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:04,409 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:04,610 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:04,801 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:05,006 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:05,208 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:05,410 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:05,608 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:05,791 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:05,982 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:06,183 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:06,385 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:06,584 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:06,775 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:06,972 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:07,162 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:07,352 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:07,546 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:07,753 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:07,949 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:08,140 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:08,335 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:08,517 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:08,713 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:08,922 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:09,125 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:09,317 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:09,512 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:09,712 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:09,915 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:10,115 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:10,315 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:10,526 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:10,712 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:10,931 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:11,159 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:11,367 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:11,567 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:11,774 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:11,975 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:12,179 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:12,376 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:12,582 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:12,793 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:13,002 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:13,213 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:13,437 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:13,660 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:13,901 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:14,102 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:14,298 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:14,516 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:14,732 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:14,929 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:15,128 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:15,352 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:15,570 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:15,778 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:15,977 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:16,188 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:16,406 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:16,611 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:16,825 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:17,012 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:17,202 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:17,398 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:17,587 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:17,787 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:17,989 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:18,209 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:18,412 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:18,620 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:18,844 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:19,046 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:19,256 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:19,462 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:19,656 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:19,864 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:20,068 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:20,278 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:20,485 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:20,683 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:20,900 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:21,095 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:21,312 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:21,509 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:21,707 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:21,915 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:22,112 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:22,324 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:22,531 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:22,731 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:22,941 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:23,147 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:23,342 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:23,562 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:23,616 - INFO - Saved captured image to captured_data\captured_20250607_130423.jpg
+2025-06-07 13:04:23,617 - INFO - Saved vector to captured_data\vector_20250607_130423.log
+2025-06-07 13:04:23,617 - INFO - compare_vectors: 24 vectors, 24 paths, 24 names
+2025-06-07 13:04:23,617 - INFO - Comparing Duy with Captured: Cosine Distance = 0.4016, Confidence = 0.5984, Result = Different person
+2025-06-07 13:04:23,617 - INFO - Comparing Hoang_lan with Captured: Cosine Distance = 0.4874, Confidence = 0.5126, Result = Different person
+2025-06-07 13:04:23,617 - INFO - Comparing Phat with Captured: Cosine Distance = 0.6219, Confidence = 0.3781, Result = Different person
+2025-06-07 13:04:23,617 - INFO - Comparing Viet_Anh with Captured: Cosine Distance = 0.1247, Confidence = 0.8753, Result = Same person
+2025-06-07 13:04:23,617 - INFO - Comparing Vux with Captured: Cosine Distance = 0.8214, Confidence = 0.1786, Result = Different person
+2025-06-07 13:04:23,617 - INFO - Comparing Vu_nguyen with Captured: Cosine Distance = 0.6001, Confidence = 0.3999, Result = Different person
+2025-06-07 13:04:23,617 - INFO - Comparing Xoai with Captured: Cosine Distance = 0.4514, Confidence = 0.5486, Result = Different person
+2025-06-07 13:04:23,769 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:23,959 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:24,168 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:24,368 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:24,552 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:24,765 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:24,989 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:25,196 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:25,379 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:25,582 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:25,789 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:25,984 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:26,178 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:26,372 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:26,593 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:26,796 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:26,994 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:27,189 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:27,398 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:27,624 - INFO - Face detection confidence: 0.99
+2025-06-07 13:04:27,840 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:28,040 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:28,235 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:28,433 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:28,632 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:28,817 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:29,024 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:29,220 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:29,425 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:29,624 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:29,819 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:30,025 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:30,252 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:30,443 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:30,656 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:30,875 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:31,080 - INFO - Face detection confidence: 0.99
+2025-06-07 13:04:31,275 - INFO - Face detection confidence: 0.99
+2025-06-07 13:04:31,622 - INFO - Face detection confidence: 0.99
+2025-06-07 13:04:31,834 - INFO - Face detection confidence: 0.95
+2025-06-07 13:04:32,818 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:33,017 - INFO - Face detection confidence: 0.99
+2025-06-07 13:04:33,216 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:33,405 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:33,617 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:33,815 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:34,019 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:34,211 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:34,425 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:34,631 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:34,834 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:35,034 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:35,242 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:35,460 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:35,655 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:35,916 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:36,158 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:36,381 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:36,618 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:36,889 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:37,111 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:37,312 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:37,529 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:37,751 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:37,974 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:38,180 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:38,395 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:38,604 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:38,816 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:39,016 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:39,228 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:39,448 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:39,648 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:39,865 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:40,082 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:40,291 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:40,500 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:40,704 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:40,906 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:41,094 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:41,284 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:41,471 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:41,664 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:41,878 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:42,071 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:42,291 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:42,505 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:42,725 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:42,914 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:43,102 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:43,297 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:43,495 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:43,689 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:43,861 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:44,062 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:44,253 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:44,478 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:44,680 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:44,892 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:45,065 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:45,255 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:45,472 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:45,676 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:45,899 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:46,104 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:46,326 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:46,567 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:46,772 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:46,982 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:47,187 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:47,395 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:47,607 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:47,788 - INFO - Face detection confidence: 1.00
+2025-06-07 13:04:47,975 - INFO - Face detection confidence: 1.00
